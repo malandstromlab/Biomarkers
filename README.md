@@ -5,10 +5,14 @@ We further found associations between plasma protein levels and protein levels i
 
 See the preprint [here](https://doi.org/10.1101/2025.02.07.636864)
 
+## The dependencies
+- R and RStudio (see the script for exact packages needed)
+- Python (if you want to plot some more figures)
 
-The scripts for the biomarker analysis of the paper:
+## The data
+Retrieve data from the paper when published. It containes blood plasma protein levels, detected via an Olink panel. 
 
-R-script: Run the full analysis and plot figure panels
-
-Python-script: Generate data for box-plot figures of the biomarker levels
+## The scripts
+- R-script: Run the full analysis and plot figures.
+- Python-script: Generate the data files to create box-plots of the biomarker levels in patients vs healthy controls.
 
